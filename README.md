@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leegosbee
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on open source javascript projects
+- 👀 I’m interested in test driven development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on open source Javascript/Typescript projects
 - 📫 How to reach me ...
 
 <!---
